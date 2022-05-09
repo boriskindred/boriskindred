@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @boriskindred
 - 👀 I’m interested in Kindred/Ocado Integration
-- 🌱 I’m currently learning onboarding
+- 🌱 I’m currently learning RMS
 - 💞️ I’m looking to collaborate on ALL the things!
 
 <!---
